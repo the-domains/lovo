@@ -1,0 +1,14 @@
+layout_spectrum: 0.45845082052983344
+typography_spectrum: 0.9677820426877588
+color:
+  brandStrength: 0.08120225230231881
+  lightness: 0.15831570187583566
+  saturation: 0.35050470591522753
+  rhythmicContrast: 0.45731046074070036
+  brandColors:
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
+name: LOVO
